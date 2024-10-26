@@ -2,7 +2,8 @@
 
 ## Project Objective
 
-This project analyzes Video Game sales over the decades. Using Tableau for visualization and data analysis, we will explore peak sales periods and the platforms, publishers and sales during those periods. 
+This project analyzes Video Game sales over the decades. Using Tableau for visualization, we will explore peak sales periods and the platforms that the publishers released their games on and distribution of sales across regions during those periods.
+
 
 ## Objectives
 
