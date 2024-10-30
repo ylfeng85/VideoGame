@@ -48,7 +48,7 @@ What were the peak periods for video game sales and which platforms were used?
 
 Analysis: I analyzed the leading platforms throughout the years and compared them to the top platforms during the peak period of 2008 - 2009. Additionally, I examined sales by region and publisher distribution to platforms during peak periods.
 
-Visualization: Dashboard made of visualizations including: Top Overall Selling Platforms (Chart), Total Sales by Platform (Bar Chart), Distribution of Sales Over the Years (Line Chart), Publisher Distribution of Top Platforms (Heatmap)
+Visualization: Dashboard made of visualizations including: Top Overall Selling Platforms (Table), Total Sales by Platform (Bar Chart), Distribution of Sales Over the Years (Line Chart), Publisher Distribution of Top Platforms (Highlight Table)
 
 Insight: Overall video game sales peaked around 2008 and 2009, with Wii being the peak platform for video game at the time. The PS2, which remains the overall top global-selling platform, reached its peak in the early 2000s. During these peak periods, the United States held the largest market share among sales, with Japan as the leading publisher, Nintendo releasing the most games on Wii. 
 
